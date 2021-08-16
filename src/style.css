@@ -1,6 +1,7 @@
 /* styles go here */
-.formfield {
+.form-field {
   margin-top: 10px;
+  display: block;
 }
 
 fieldset {
